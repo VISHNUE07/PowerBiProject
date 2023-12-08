@@ -1,6 +1,6 @@
 # PowerBiProject
-https://drive.google.com/drive/folders/1t9DJ0Dd_Yy5eFCmDsLo7ekHV3VOBayDt?usp=drive_link
-Welcome to the GitHub repository for my Power BI presentation, where I delve into the intricacies of [Company Name]'s sales data. This presentation showcases the power of interactive visualizations, slicers, and tables in providing dynamic insights into our sales landscape.
+
+Welcome to the GitHub repository for my Power BI presentation, where I delve into the intricacies of Global Superstore's sales data. This presentation showcases the power of interactive visualizations, slicers, and tables in providing dynamic insights into our sales landscape.
 
 Key Highlights:
 Dynamic Total Sales Analysis:
