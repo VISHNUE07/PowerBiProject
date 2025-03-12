@@ -1,22 +1,49 @@
-# PowerBiProject
+# Sales Data Analysis - Power BI Project
 
-Welcome to the GitHub repository for my Power BI presentation, where I delve into the intricacies of Global Superstore's sales data. This presentation showcases the power of interactive visualizations, slicers, and tables in providing dynamic insights into our sales landscape.
+## Overview
 
-Key Highlights:
+The Sales Data Analysis project is a Power BI dashboard designed to analyze Global Enterprise Sales Data and provide valuable insights into sales trends, profitability, and shipping performance.
 
-Dynamic Total Sales Analysis:
-Explore trends and patterns over time with a dynamically adjustable time range using slicers.
+## Features
 
-Region-wise Insights with Tables:
-Navigate through regional sales performance using slicers and detailed tables for a comprehensive view.
+1. Key Performance Indicators (KPIs):
 
-Sales Breakdown with Visuals:
-Focus on sales using slicers, supported by visuals that vividly present sales distribution.
+* Transaction count
 
-How to Access:
+* Total sales quantity
 
-Google Drive Link:
+* Total returns
 
-https://drive.google.com/drive/folders/1t9DJ0Dd_Yy5eFCmDsLo7ekHV3VOBayDt?usp=drive_link
+* Slow delivery count
 
-Click on the provided Google Drive link to access the Power BI presentation file.
+* Total sales amount
+
+* Total shipping cost
+
+* Total profit
+
+2. Filtering & Slicers:
+
+* Ability to filter sales data by country, region, or market for in-depth analysis.
+
+3. Data Visualizations:
+
+* Donut Chart: Shows shipping cost percentage by ship mode, highlighting Standard Class as the highest contributor.
+
+* Line & Clustered Column Chart: Displays sales trends over the years.
+
+* Stacked Column Chart: Illustrates sales distribution by market, state, city, and region.
+
+* Map Visualization: Represents sales distribution by country.
+
+* Tables: Developed detailed tables to complement each visualization.
+
+## Tools & Technologies Used
+
+* Data Visualization Tool: Power BI
+
+* Data Sources: Global Enterprise Sales Data
+
+* Key Components: Reports, Dashboards, Slicers, Cards, Charts, and Maps
+
+
