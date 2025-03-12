@@ -6,7 +6,7 @@ The Sales Data Analysis project is a Power BI dashboard designed to analyze Glob
 
 ## Features
 
-1. Key Performance Indicators (KPIs):
+### 1. Key Performance Indicators (KPIs):
 
 * Transaction count
 
@@ -22,11 +22,11 @@ The Sales Data Analysis project is a Power BI dashboard designed to analyze Glob
 
 * Total profit
 
-2. Filtering & Slicers:
+### 2. Filtering & Slicers:
 
 * Ability to filter sales data by country, region, or market for in-depth analysis.
 
-3. Data Visualizations:
+### 3. Data Visualizations:
 
 * Donut Chart: Shows shipping cost percentage by ship mode, highlighting Standard Class as the highest contributor.
 
